@@ -1,0 +1,88 @@
+[
+    {
+      "id": 7453,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Shane and family are wonderful! Would definitely host again :)",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "respect_house_rules", "rating": 10 }
+      ],
+      "submittedAt": "2020-08-21 22:45:14",
+      "guestName": "Shane Finkelstein",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 7454,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Amazing stay! The place was spotless and the host was very responsive.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 },
+        { "category": "communication", "rating": 5 },
+        { "category": "check_in", "rating": 5 }
+      ],
+      "submittedAt": "2020-08-22 10:30:00",
+      "guestName": "Jane Doe",
+      "listingName": "3A N1 B - The Greenwich"
+    },
+    {
+      "id": 7455,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great location, but the check-in process was a bit confusing.",
+      "reviewCategory": [
+        { "category": "location", "rating": 4 },
+        { "category": "check_in", "rating": 3 }
+      ],
+      "submittedAt": "2021-01-15 15:00:00",
+      "guestName": "John Smith",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 7456,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Flex Living is our go-to for corporate stays. Always a perfect experience.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 },
+        { "category": "communication", "rating": 5 },
+        { "category": "value", "rating": 5 }
+      ],
+      "submittedAt": "2021-02-10 09:00:00",
+      "guestName": "Sarah Connor",
+      "listingName": "11C SW1 - The Kensington"
+    },
+    {
+      "id": 7457,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3,
+      "publicReview": "The property was nice, but there was a recurring issue with the Wi-Fi.",
+      "reviewCategory": [
+        { "category": "amenities", "rating": 3 }
+      ],
+      "submittedAt": "2021-03-05 18:45:00",
+      "guestName": "Michael Scott",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 7458,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Absolutely perfect. Will be back!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 },
+        { "category": "value", "rating": 5 }
+      ],
+      "submittedAt": "2021-04-20 12:00:00",
+      "guestName": "Dwight Schrute",
+      "listingName": "3A N1 B - The Greenwich"
+    }
+  ]
