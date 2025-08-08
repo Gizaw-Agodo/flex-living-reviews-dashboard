@@ -1,0 +1,56 @@
+[
+    {
+      "name": "2B N1 A - 29 Shoreditch Heights",
+      "city": "London",
+      "pricePerNight": 170,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "guests": 4,
+      "imageUrl": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/23248-179549-j6zPDdnC--Mh3GL9lCr-jvdFgpoOugasCyuPCCZBqdz0-64c0e1a476aa7"
+    },
+    {
+      "name": "3A N1 B - The Greenwich",
+      "city": "London",
+      "pricePerNight": 210,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "guests": 5,
+      "imageUrl": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/130510-323045-fLubMDvF1DDJwSNLazciGgF---VZcdJ8UhgS8PNJdNh4-6723e97d94c4c"
+    },
+    {
+      "name": "11C SW1 - The Kensington",
+      "city": "London",
+      "pricePerNight": 290,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "guests": 3,
+      "imageUrl": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/130510-321823-SfgVl1jwa7YAyHIWXe--pnLKrMfykqrIzRPWAfhnNtSE-67e54d418c962"
+    },
+    {
+      "name": "5A W2 - The Paddington",
+      "city": "London",
+      "pricePerNight": 195,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "guests": 2,
+      "imageUrl": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/23248-378173-6zmyV1mka2nre49oSJZKExgN880nPDZpEVUMschlNP8-67eed8f01631b"
+    },
+    {
+      "name": "8B E1 - The Canary Wharf",
+      "city": "London",
+      "pricePerNight": 320,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "guests": 8,
+      "imageUrl": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/23248-163276-k88VCyHsxk4kTELhfqpVjuJFtuxoRLvIEU7vyFX2avA-66c63aeb527f1"
+    },
+    {
+      "name": "4C NW3 - The Hampstead",
+      "city": "London",
+      "pricePerNight": 250,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "guests": 4,
+      "imageUrl": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/23248-113263-S3UODD1QF5VMgz41q1kqqCzzazyjHdjoub--rCU2DJVE-66337277a7580"
+    }
+  ]
