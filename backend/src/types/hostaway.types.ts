@@ -17,7 +17,7 @@ export interface HostawayReviewCategory {
   // a single raw review 
   export interface HostawayReview {
     id: number;
-    type: 'guest-to-host' | 'host-to-guest';
+    type: string
     status: string;
     rating: number | null;
     publicReview: string;
@@ -34,7 +34,7 @@ export interface HostawayReviewCategory {
     guestName: string;
     rating: number | null;
     reviewText: string;
-    reviewType: 'guest-to-host' | 'host-to-guest';
+    reviewType: string;
     channel: string; 
     date: string;
     categoryRatings: { [key: string]: number };

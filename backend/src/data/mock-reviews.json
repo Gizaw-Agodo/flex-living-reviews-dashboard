@@ -1,4 +1,5 @@
-[
+{"status" :"success", 
+ "result": [
   { "id": 101, "type": "guest-to-host", "status": "published", "rating": 5, "publicReview": "Wonderful stay, excellent communication.", "reviewCategory": [{ "category": "communication", "rating": 5 }, { "category": "cleanliness", "rating": 5 }], "submittedAt": "2023-01-10 10:00:00", "guestName": "Alex P.", "listingName": "2B N1 A - 29 Shoreditch Heights" },
   { "id": 102, "type": "guest-to-host", "status": "published", "rating": 4, "publicReview": "Great location, but the check-in process was a bit slow.", "reviewCategory": [{ "category": "location", "rating": 5 }, { "category": "check_in", "rating": 3 }], "submittedAt": "2023-01-15 11:30:00", "guestName": "Bella S.", "listingName": "2B N1 A - 29 Shoreditch Heights" },
   { "id": 103, "type": "guest-to-host", "status": "published", "rating": 5, "publicReview": "Everything was perfect, highly recommend.", "reviewCategory": [{ "category": "cleanliness", "rating": 5 }, { "category": "amenities", "rating": 5 }], "submittedAt": "2023-01-20 14:00:00", "guestName": "Chris L.", "listingName": "2B N1 A - 29 Shoreditch Heights" },
@@ -65,3 +66,4 @@
   { "id": 609, "type": "guest-to-host", "status": "published", "rating": 5, "publicReview": "A true gem in Hampstead. Will be back for sure.", "reviewCategory": [{ "category": "location", "rating": 5 }, { "category": "value", "rating": 5 }], "submittedAt": "2023-04-25 17:00:00", "guestName": "Isla K.", "listingName": "4C NW3 - The Hampstead" },
   { "id": 610, "type": "guest-to-host", "status": "published", "rating": 4, "publicReview": "Good location and spacious. The check-in could be simpler.", "reviewCategory": [{ "category": "check_in", "rating": 3 }], "submittedAt": "2023-04-30 21:00:00", "guestName": "Jacob L.", "listingName": "4C NW3 - The Hampstead" }
 ]
+}

@@ -1,19 +1,14 @@
-import { readFileSync } from 'fs';
-import path from 'path';
-import { HostawayReview, NormalizedReview, Listing, ReviewsApiPayload } from '../types/hostaway.types';
+import { NormalizedReview, Listing, ReviewsApiPayload } from '../types/hostaway.types';
 
+import reviewsData from '../data/mock-reviews.json';
+import listingData from "../data/mock-listing.json"
 
-const getRawHostawayReviews = (): HostawayReview[] => {
-  const reviewsPath = path.join(__dirname, '../data/mock-reviews.json');
-  const reviewsJson = readFileSync(reviewsPath, 'utf-8');
-  return JSON.parse(reviewsJson);
+const getRawHostawayReviews = ()=> {
+  return reviewsData.result;
 };
 
-
 const getRawListings = (): Listing[] => {
-  const listingsPath = path.join(__dirname, '../data/mock-listing.json');
-  const listingsJson = readFileSync(listingsPath, 'utf-8');
-  return JSON.parse(listingsJson);
+  return listingData
 };
 
 export const getAndNormalizeHostawayReviews = (): ReviewsApiPayload => {
